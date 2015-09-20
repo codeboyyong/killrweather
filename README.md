@@ -157,3 +157,6 @@ In the cql shell:
 To close the cql shell:
 
     cqlsh> quit;
+
+
+Youtube :https://www.youtube.com/watch?v=uERFXD1Nj6E
